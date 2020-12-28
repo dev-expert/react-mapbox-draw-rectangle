@@ -50,8 +50,8 @@ containerStyle={{
 ```
 
 ## References
-- https://reactjs.org/docs/refs-and-the-dom.html
-- https://developer.mozilla.org/en-US/docs/Web/API/Element/mousedown_event
+- https://github.com/mapbox/mapbox-gl-draw/blob/main/docs/MODES.md#available-custom-modes
+- https://github.com/mapbox/mapbox-gl-draw
 - https://github.com/dev-expert/react-mapbox-draw-rectangle
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
